@@ -1,3 +1,4 @@
+![logo](https://github.com/Garvit20012007/Garvit-Sharma/blob/main/Garvit%20Sharma.png)
 <h1 align="center">Hi 👋, I'm Garvit Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
